@@ -1,3 +1,5 @@
 Belajar github dimulai dari:
 - Pengertian
 - Istilah diGitbub itu sendiri
+- Kemudian mengedit dengan menambahkn teks yang akan di tambah 
+- ini adalah contoh teks yang saya tambahkan
